@@ -1,1 +1,3 @@
-# python_Project-Credit-Scoring
+# Credit Score Analysis in Python
+
+A credit scoring model is a statistical tool commonly employed in loan approval processes. It assesses information about the borrower, such as their age and past loan history, to determine the likelihood of a loan being repaid successfully or defaulting. By distinguishing between "good" and "bad" loans, the credit scoring model gives lenders an estimation of the risk involved in approving a loan. When a borrower fails to meet their legal obligations of repaying a loan, it results in default, such as when a homeowner misses a mortgage payment or a corporation fails to pay back a matured bond.
